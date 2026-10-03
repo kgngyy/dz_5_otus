@@ -49,7 +49,3 @@ npm run dev
 
 ## Документация
 Полное описание — в [backend_documentation.md](backend_documentation.md).
-
-## Сдача
-- Репозиторий: код, `001_init.sql`, `backend_documentation.md`, `.env.example`, README.
-- `.env` и `node_modules` **не** коммитим (указаны в `.gitignore`).
